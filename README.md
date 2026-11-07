@@ -17,6 +17,5 @@ Ez a projekt egy Terraform konfigurációt tartalmaz, amely egy biztonságos, é
 
 1. Klónozd a repository-t:
    ```bash
-   bash
-   git clone [https://github.com/A_FELHASZNALONEVED/A_REPOSITORY_NEVE.git](https://github.com/A_FELHASZNALONEVED/A_REPOSITORY_NEVE.git)
-   cd A_REPOSITORY_NEVE
+   git clone (https://github.com/sitkeitamas-debug/Azure-VPN-Gateway-VNet-Infrastructure-as-Code.git)
+   cd Azure-VPN-Gateway-VNet-Infrastructure-as-Code
