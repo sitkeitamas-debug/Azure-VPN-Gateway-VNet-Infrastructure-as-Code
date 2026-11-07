@@ -19,3 +19,5 @@ Ez a projekt egy Terraform konfigurációt tartalmaz, amely egy biztonságos, é
    ```bash
    git clone (https://github.com/sitkeitamas-debug/Azure-VPN-Gateway-VNet-Infrastructure-as-Code.git)
    cd Azure-VPN-Gateway-VNet-Infrastructure-as-Code
+## 🖼️ Azure Felhő Környezet
+![Azure Erőforráscsoport](./hálózat.png)
